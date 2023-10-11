@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pets">
+        <item>Beagle|dogs|The Beagle is a medium-sized breed known for its excellent sense of smell and energetic nature. They have short, smooth coats and are well-suited for active families.</item>
+        <item>Border Collie|dogs|The Border Collie is an intelligent and loyal breed specifically bred for herding livestock. They are highly intelligent, easily trainable, and full of energy.</item>
+        <item>Yorkshire Terrier|dogs|The Yorkshire Terrier is a small breed known for its long, silky hair and lively personality. They often make excellent companions and are suitable for city living.</item>
+        <item>Siamese|cats|The Siamese cat is known for its striking blue almond-shaped eyes, short coat, and distinctive color points on its ears, face, paws, and tail. Siamese cats are vocal, sociable, and enjoy human companionship.</item>
+        <item>Maine Coon|cats|The Maine Coon is one of the largest domestic cat breeds, known for its robust build, tufted ears, and long, bushy tail. They have a friendly and sociable personality and are often referred to as "gentle giants."</item>
+        <item>Persian|cats|The Persian cat is famous for its luxurious long fur, flat face, and gentle demeanor. They require regular grooming to maintain their coat and have a calm and affectionate temperament, making them great indoor companions.</item>
+        <item>Budgerigar|parrots|The Budgerigar, often called a "Budgie," is a small and colorful parrot native to Australia. They are known for their vibrant plumage, with colors such as blue, green, and yellow. Budgerigars are popular pets due to their small size, playful nature, and ability to mimic sounds and speech.</item>
+        <item>Cockatoo|parrots|Cockatoos are large parrots known for their distinctive crests and expressive personalities. They come in various species, such as the Sulphur-crested Cockatoo and the Major Mitchell\'s Cockatoo. Cockatoos are highly intelligent and require social interaction and mental stimulation.</item>
+        <item>Macaw (Ara spp.)|parrots|Macaws are large, colorful parrots belonging to the Ara genus. They are known for their stunning plumage, with bright colors like blue, red, and green. Macaws are highly intelligent birds and can live for several decades. They are often kept as pets by experienced bird enthusiasts due to their demanding care requirements.</item>
+        <item>Eastern Gray Squirrel |squirrels|The Eastern Gray Squirrel is a common tree-dwelling squirrel found in North America. They have gray fur with a white belly and a bushy tail. These squirrels are known for their agility, adaptability to urban environments, and their habit of hoarding nuts for winter.</item>
+        <item>Red Squirre|squirrels|The Red Squirrel, also known as the Eurasian Red Squirrel, is native to Europe and parts of Asia. They have reddish-brown fur and tufted ears. Red Squirrels are known for their lively and inquisitive nature, often seen foraging for food in forests.</item>
+        <item>Flying Squirrel|squirrels|Flying Squirrels are a group of small to medium-sized squirrels known for their ability to glide through the air. They have a membrane of skin called the patagium that stretches between their forelimbs and hindlimbs, allowing them to glide between trees. Various species of Flying Squirrels are found in different parts of the world.</item>
+    </string-array>
+</resources>

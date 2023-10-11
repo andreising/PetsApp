@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+    <string name="favourites">Избранное</string>
+    <string name="add_to_favourites">Добавить в избранное</string>
+    <string name="learn_different_categories_of_animals_and_their_species_find_the_perfect_pet_breed_for_you">Изучите различные категории животных и их виды. Найдите идеальную породу домашнего животного для вас.</string>
+    <string name="pet_breeds">Pet breeds</string>
+    <string name="get_start">Начать</string>
+</resources>

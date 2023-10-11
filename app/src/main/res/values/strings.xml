@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+    <string name="favourites">Favourites</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="learn_different_categories_of_animals_and_their_species_find_the_perfect_pet_breed_for_you">Learn different categories of animals and their species. Find the perfect pet breed for you.</string>
+    <string name="pet_breeds">Pet breeds</string>
+    <string name="get_start">Get Start</string>
+    <string name="take_photo">Take a photo!</string>
+</resources>

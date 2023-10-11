@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicativo para animais de estimação</string>
+    <string name="favourites">Favoritos</string>
+    <string name="add_to_favourites">Adicionar aos favoritos</string>
+    <string name="learn_different_categories_of_animals_and_their_species_find_the_perfect_pet_breed_for_you">Aprenda diferentes categorias de animais e suas espécies. Encontre a raça de animal de estimação perfeita para você.</string>
+    <string name="pet_breeds">Raças de animais de estimação</string>
+    <string name="get_start">Vamos começar</string>
+</resources>
